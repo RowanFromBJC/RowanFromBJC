@@ -10,10 +10,10 @@
 * Mood: `null`
 * Yeet: `true`
 * Languages:
-  - HTML: 4/10
-  - CSS: 3/10
-  - JavaScript: 5/10
-    - Node.js: 5/10
+  - HTML: 9/10
+  - CSS: 7/10
+  - JavaScript: 10/10
+    - Node.js: 10/10
     - JSON: 7/10
   - Python: 3/10
   - Java: 0/10
