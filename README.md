@@ -2,6 +2,7 @@
 * First Name: Rowan
 * Last Name: Unknown
 * Gender: Male
+* Species: Cat
 * Age: Unknown
 * Location: Antartica
 * Repl.it: [@RowanFromBJC](https://repl.it/@RowanFromBJC)
