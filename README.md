@@ -30,3 +30,7 @@
 
 I Like HTML5, CSS3, JavaScript, Node.JS, Bootstrap, Firebase, Python, Socket.io, and Bash.
 I Dislike C, C#, C++, PHP/ASP/JSP, SQL, and React.
+
+Commits: {{ COMMITS }}
+Repos: {{ REPOSITORIES }}
+Stars: {{ STARS }}
