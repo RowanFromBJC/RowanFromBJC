@@ -3,7 +3,7 @@
 * Last Name: Unknown
 * Gender: Male
 * Species: Cat
-* Age: Unknown
+* Age: 139
 * Location: Antartica
 * Repl.it: [@RowanFromBJC](https://repl.it/@RowanFromBJC)
 * Status: :taco:
@@ -27,6 +27,10 @@
   - Assembly: 0/10
   - Lisp: N/A
   - Lua: N/A
-
+* Computer: MacOS iMac Desktop
+  
 I Like HTML5, CSS3, JavaScript, Node.JS, Bootstrap, Firebase, Python, Socket.io, and Bash.
-I Dislike C, C#, C++, PHP/ASP/JSP, SQL, and React.
+
+I Dislike C, C#, C++, PHP/ASP/JSP, SQL, Java, PowerShell and React.
+
+I Use repl.it, JSFiddle, Notepad++, and Brackets.
