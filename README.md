@@ -34,3 +34,5 @@ I Like HTML5, CSS3, JavaScript, Node.JS, Bootstrap, Firebase, Python, Socket.io,
 I Dislike C, C#, C++, PHP/ASP/JSP, SQL, Java, PowerShell and React.
 
 I Use repl.it, JSFiddle, Notepad++, and Brackets.
+
+![Rowans's github stats](https://github-readme-stats.vercel.app/api?username=RowanFromBJC&theme=react&show_icons=true)
