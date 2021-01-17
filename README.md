@@ -36,3 +36,5 @@ I Dislike C, C#, C++, PHP/ASP/JSP, SQL, Java, PowerShell and React.
 I Use repl.it, JSFiddle, Notepad++, and Brackets.
 
 ![Rowans's github stats](https://github-readme-stats.vercel.app/api?username=RowanFromBJC&theme=react&show_icons=true)
+
+~~i live in elmo's lair~~
