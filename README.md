@@ -37,4 +37,6 @@ I Use repl.it, JSFiddle, Notepad++, and Brackets.
 
 ![Rowans's github stats](https://github-readme-stats.vercel.app/api?username=RowanFromBJC&theme=react&show_icons=true)
 
-~~i live in elmo's lair~~
+### My projects:
+  * brew-up: A simple lock file system for homebrew
+  * Tar-graphics: An Electron app for depacking tar files. (Unfinished)
