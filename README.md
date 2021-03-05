@@ -40,6 +40,7 @@ I Use repl.it, JSFiddle, Notepad++, and Brackets.
 ### My projects:
   * brew-up: A simple lock file system for homebrew
   * Tar-graphics: An Electron app for depacking tar files. (Unfinished)
+  * createElement: Use the DOM to easily create elements, if it wasn't already easy enough
 
 ### Frontend  
 <div align="left">  
