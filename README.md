@@ -27,7 +27,7 @@
   - Assembly: 0/10
   - Lisp: N/A
   - Lua: N/A
-* Computer: MacOS iMac Desktop
+* Computer: MacOS iMac Desktop, Windows 10, and Raspberry Pi 4 with Raspbian and 2tb HDD
   
 I Like HTML5, CSS3, JavaScript, Node.JS, Bootstrap, Firebase, Python, Socket.io, and Bash.
 
